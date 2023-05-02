@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in full stack web and mobile development
-- ⚡️ I’m currently learning Typescript and Docker
+- ⚡️ I’m currently working with Typescript/Javascript and Swift
 - 📖 I’m looking to collaborate on Open Source Projects
 
 
